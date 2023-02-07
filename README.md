@@ -1,2 +1,2 @@
-# pid_control
-PID controller with wind-up protection, rate and output limiters. Simulated and displayed with GNU plot.
+# PID Controller
+PID controller implementation with rate limiter, output clamping and wind-up protection. Based on design presented in "Control System Design" by Karl Johan Astrom. 
